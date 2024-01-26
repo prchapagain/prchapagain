@@ -1,46 +1,20 @@
-<!-- Animated text using CSS -->
-<style>
-  @keyframes slideIn {
-    from { transform: translateY(-50px); opacity: 0; }
-    to { transform: translateY(0); opacity: 1; }
-  }
+<div align="center">
 
-  .animated-text {
-    animation: slideIn 1s ease-in-out;
-  }
-</style>
+<div align="center">
 
-# Hi there, I'm PR Chapagain! 🚀
+### Hi there 👋, PR CHAPAGAIN
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+virtual+instrument+maker;I'm+a+music+producer;I'm+a+writer;I'm+a+blogger" alt="Typing SVG" /></a>
+![I am Music productor](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGqUS7vklkax1PYU2cepQqiT5-wg6EAukr7QfZcQs7yBZdeuhb16yKdJnXHdwZ3ksrw2s5v5V4A7MbwXsBvrgRLDiUmqsHTElrvlSgE3ple5NXi01EIHgY0YKTDC0WzTaFvhmoSMKL3KbIz4fuQO1h1X3koXdNFepM0UbmDDz7_I3ue9lLUDt-VhCb8A/s320/1679467598007611-0.jpg)
 
-<!-- Animated logo using CSS -->
-<div style="border-radius: 50%; overflow: hidden; width: 50px; height: 50px; margin: 0 auto; animation: rotate 3s infinite linear;">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGqUS7vklkax1PYU2cepQqiT5-wg6EAukr7QfZcQs7yBZdeuhb16yKdJnXHdwZ3ksrw2s5v5V4A7MbwXsBvrgRLDiUmqsHTElrvlSgE3ple5NXi01EIHgY0YKTDC0WzTaFvhmoSMKL3KbIz4fuQO1h1X3koXdNFepM0UbmDDz7_I3ue9lLUDt-VhCb8A/s320/1679467598007611-0.jpg" alt="PR Chapagain" style="width: 20%; height: 20%;">
-</div>
+Skills: JS / HTML / CSS
 
-<!-- Animated text -->
-<div class="animated-text">
-  
-- 📝 **Writer:** I love crafting stories that inspire and provoke thought. Drawing on my experiences as a traveler, culture enthusiast, and technology geek, I weave narratives that resonate.
+- 🔭 I’m currently working on Nepali digital instrument making. 
 
-- 📸 **Photographer & Videographer:** My photography is an extension of storytelling, capturing the beauty and essence of people, places, and moments in time. My video editing and videography skills bring stories to life, creating engaging and immersive content.
 
-- 🎶 **Music Producer & Nepali Virtual Instrument Maker:** Constantly experimenting with new sounds and techniques, I take pride in creating authentic Nepali virtual instruments that represent the rich culture and heritage of Nepal. My music touches the soul and inspires the mind.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prchapagain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prchapagain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/prchapagain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/prchapagain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/PRchapagain98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/pkentertainmentnepal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](prchapagain.com.np)  
 
-- 💻 **Blogger:** Through my blog at [Merotips](https://www.merotips.com), I share thoughts and experiences on a wide range of topics, from technology and innovation to music and entertainment.
-</div>
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-## Location 🌍
-I'm currently based in Butwal, Rupandehi, Nepal.
+[![trophy](https://github-profile-trophy.vercel.app/?username=prchapagain)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Contact 📬
-- 📱 +977 9846920259
-- ✉️ merotipsofficial@gmail.com
-- 🌐 [Merotips Official](https://www.merotips.com)
-
-## My Professional Skills 💼
-- ✍️ **Content Writing:** 90%
-- 🎵 **Music Production:** 70%
-- 🎻 **Nepali Virtual Instrument Development:** 95%
-- 🎨 **Graphic Designing:** 60%
-
-Feel free to explore my projects and connect with me. Let's create and innovate together! 🚀
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prchapagain&show_icons=true)  
